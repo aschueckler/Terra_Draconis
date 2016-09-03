@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item id="303"> <!-- item objectID from objects_types-->
+		<effect id="27">1 20</effect> <!-- id="" - id of effect from cm_effects.xml, [float1] [float2] - magnitude min and max-->
+	</item>
+	<item id="304">
+		<effect id="28">1 20</effect>
+	</item>
+	<item id="305">
+		<effect id="33">1 20</effect>
+	</item>
+	<item id="306">
+		<effect id="30">1 20</effect>
+	</item>
+	<item id="307">
+		<effect id="36">1 20</effect>
+	</item>
+	<item id="479"><!-- silver ring-->
+		<effect id="52">1 1</effect>
+	</item>
+	<item id="487"><!-- gold ring-->
+		<effect id="52">1 2</effect>
+	</item>
+	<item id="499"><!-- gold and silver ring-->
+		<effect id="52">1 2</effect>
+	</item>
+	<item id="488"><!-- gold and silver amulet-->
+		<effect id="52">1 5</effect>
+	</item>
+	<item id="489"><!-- silver jeweled necklace-->
+		<effect id="52">1 4</effect>
+	</item>
+	<item id="490"><!-- gold jeweled necklace--> 
+		<effect id="52">1 5</effect>
+	</item>
+	<item id="491"><!-- exclusive gold and silver amulet-->
+		<effect id="52">1 6</effect>
+	</item>
+	<item id="498"> <!-- exclusive gold and silver ring-->
+		<effect id="52">1 3</effect>
+	</item>
+	<item id="492"> <!-- silver amethyst ring-->
+		<effect id="52">1 2</effect>
+	</item>
+	<item id="493"><!-- silver garnet ring-->
+		<effect id="52">1 2</effect>
+	</item>
+	<item id="494"><!-- silver ruby ring-->
+		<effect id="52">1 3</effect>
+	</item>
+	<item id="495"><!--  gold emerald ring-->
+		<effect id="52">1 3</effect>
+	</item>
+	<item id="496"><!-- gold sapphire ring-->
+		<effect id="52">1 3</effect>
+	</item>
+	<item id="497"><!-- gold diamond ring-->
+		<effect id="52">1 3</effect>
+	</item>
+	
+	<item id="1810"><effect id="26">1 20</effect> <!--Forge Up--></item>
+	<item id="1811"><effect id="30">1 20</effect> <!--Jewelry Up--></item>
+	<item id="1812"><effect id="37">1 20</effect> <!--Brewery Up--></item>
+	<item id="1813"><effect id="35">1 20</effect> <!--Hunting Up--></item>
+	<item id="1814"><effect id="29">1 20</effect> <!--Bowcrafting Up--></item>
+	<item id="2895"><effect id="31">1 20</effect> <!--Herbalism Up--></item>
+	<item id="2896"><effect id="32">1 20</effect><!--Mining Up--><effect id="52">1 10</effect><!--LUCK--></item>
+	
+	<!-- RELICS OF THE LOST KING -->
+	<!-- Helm Willpower, Int -->
+	<item id="3320"><effect id="21">10 10</effect><effect id="22">2 2</effect><effect id="52">2 2</effect><!--LUCK--></item>
+	<!-- Breastplate Constitution, INT -->
+	<item id="3321"><effect id="23">10 10</effect><effect id="22">10 10</effect><effect id="52">2 2</effect><!--LUCK--></item>
+	<!-- Vambraces Will, INT-->
+	<item id="3322"><effect id="21">10 10</effect><effect id="22">10 10</effect><effect id="52">2 2</effect><!--LUCK--></item>
+	<!-- Gauntlets Strength, INT-->
+	<item id="3323"><effect id="19">10 10</effect><effect id="22">10 10</effect><effect id="52">2 2</effect><!--LUCK--></item>
+	<!-- Leggings Con, INT-->
+	<item id="3324"><effect id="23">10 10</effect><effect id="22">10 10</effect><effect id="52">2 2</effect><!--LUCK--></item>
+	<!-- Feet Agility, INT-->
+	<item id="3325"><effect id="20">10 10</effect><effect id="22">10 10</effect><effect id="52">2 2</effect><!--LUCK--></item>
+</items>

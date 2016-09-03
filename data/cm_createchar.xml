@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<items>
+		<item id="316" amount="1" vik="no" mon="no"/>
+		<item id="1063" amount="1" eur="no" mon="no"/>
+		<item id="951" amount="1" vik="no" eur="no"/>
+		<item id="297" amount="1" vik="no" mon="no"/>
+		<item id="1137" amount="1" eur="no" mon="no"/>
+		<item id="1138" amount="1" vik="no" eur="no"/>
+		<item id="984" amount="10"/>
+		<item id="1061" amount="5" quality="100"/>
+		<item id="1060" amount="100" quality="100"/>
+		<item id="1059" amount="1000" quality="100"/>
+		
+	</items>
+</xml>
